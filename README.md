@@ -38,4 +38,3 @@
 
 ---
 
-You can expand the **Sockets for Notifications** section with more details if you have additional instructions for configuring the socket events. Let me know if you'd like to modify anything!
